@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1687565241 source:c:\users\nonata lima\desktop\estudo de c\trabalho facudade\trabalho\trb\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"janela.h"
+
+1687564360 c:\users\nonata lima\desktop\estudo de c\trabalho facudade\trabalho\trb\janela.h
+	<windows.h>
+	<stdio.h>
+
